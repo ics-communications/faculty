@@ -1,0 +1,12 @@
+{
+  "name": "ics-faculty",
+  "private": true,
+  "type": "module",
+  "description": "faculty.icscanada.edu — static site. Checks in tools/.",
+  "scripts": {
+    "serve": "python3 -m http.server 8901",
+    "build": "python3 build/generate.py",
+    "check": "node tools/audit.mjs && node tools/motion.mjs && node tools/navtest.mjs"
+  },
+  "devDependencies": { "playwright": "^1.56.0" }
+}

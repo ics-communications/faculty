@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faculty.icscanada.edu/sitemap.xml

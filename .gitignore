@@ -1,0 +1,10 @@
+node_modules/
+.render/
+package-lock.json
+.DS_Store
+._*
+.fuse_hidden*
+
+# Working material: source captures of the old site, design references, headshot
+# originals. Input to the build, never published, and not ours to redistribute.
+info/
