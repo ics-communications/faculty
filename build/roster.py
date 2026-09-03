@@ -43,10 +43,12 @@ PEOPLE = [
 
     dict(slug='ronald-kuipers', path='rkuipers', name='Ronald A. Kuipers',
          standing='faculty', group='ICS Senior Members', degrees='PhD, MPhilF, BA',
-         titles=['Professor of Philosophy of Religion', 'President of ICS'],
+         titles=['Professor of Philosophy of Religion', 'Interim Academic Dean',
+                 'Director, Centre for Philosophy, Religion, and Social Ethics'],
          source='Ronald A. Kuipers'),
 
-    # Academic Dean title removed at Gideon Strauss's request, no replacement named.
+    # Academic Dean title removed at Gideon Strauss's request; Ronald A. Kuipers
+    # holds it on an interim basis.
     dict(slug='gideon-strauss', path='gstrauss', name='Gideon Strauss',
          standing='faculty', group='ICS Senior Members', degrees='PhD, MA, BA',
          titles=['Associate Professor of Leadership and Worldview Studies'],
@@ -154,15 +156,13 @@ PEOPLE = [
              'the Institute for Christian Studies, and an MA and BA from Brock University. '
              'He has taught at ICS as a sessional lecturer and served as Postdoctoral '
              'Research Associate in the Centre for Philosophy, Religion and Social Ethics, '
-             'where he hosted the <em>Critical Faith</em> podcast. He is Assistant Professor '
-             'of Philosophy at Trinity Christian College.',
+             'where he hosted the <em>Critical Faith</em> podcast. He is a SSHRC '
+             'Postdoctoral Research Fellow at the Institute for Christian Studies.',
          foci=['Ethical and religious community as a formative context',
                'German idealist philosophy',
                'Phenomenology',
                'Contemporary social and political philosophy',
-               'Public dialogue and public space'],
-         external='https://www.trnty.edu/faculty/dr-andrew-tebbutt/',
-         external_label='Profile at Trinity Christian College'),
+               'Public dialogue and public space']),
 
     dict(slug='jacob-benjamins', name='Jacob Benjamins', standing='sessionals',
          degrees='PhD, MAS, MA, MA', field='Phenomenology and Political Theology',
