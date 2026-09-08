@@ -177,7 +177,12 @@ FOOTER = '''<footer class="site-footer">
 </footer>'''
 
 
-def page(title, description, body, active, depth, canonical):
+# The card image scrapers show for any page on the site; without it they
+# grab whichever headshot happens to come first in the roster.
+OG_IMAGE = R.SITE + '/assets/headshots/neal-deroo.jpg'
+
+
+def page(title, description, body, active, depth, canonical, image=None):
     r = rel(depth)
     return '''<!DOCTYPE html>
 <html lang="en">
@@ -192,6 +197,11 @@ def page(title, description, body, active, depth, canonical):
 <meta property="og:description" content="%s">
 <meta property="og:type" content="website">
 <meta property="og:url" content="%s">
+<meta property="og:image" content="%s">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="800">
+<meta property="og:image:alt" content="Institute for Christian Studies faculty">
+<meta name="twitter:card" content="summary">
 <link rel="icon" href="%sassets/logos/ics-logo-red.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -210,7 +220,7 @@ def page(title, description, body, active, depth, canonical):
 <script src="%sjs/site.js"></script>
 </body>
 </html>
-''' % (title, description, canonical, title, description, canonical, r, FONTS, r,
+''' % (title, description, canonical, title, description, canonical, image or OG_IMAGE, r, FONTS, r,
        header(active, depth), body, FOOTER, r)
 
 
@@ -765,8 +775,10 @@ def bio_page(p):
 
     desc = '%s, %s at the Institute for Christian Studies.' % (p['name'], subtitle) \
         if subtitle else '%s at the Institute for Christian Studies.' % p['name']
+    shot = 'assets/headshots/%s.jpg' % p['slug']
+    og = (R.SITE + '/' + shot) if os.path.exists(os.path.join(ROOT, shot)) else None
     return page('%s — ICS Faculty' % p['name'], desc[:180], main,
-                standing_key, depth, '%s/%s' % (R.SITE, R.href(p)))
+                standing_key, depth, '%s/%s' % (R.SITE, R.href(p)), og)
 
 
 # ── Write ───────────────────────────────────────────────────────────────────
