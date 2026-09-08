@@ -147,22 +147,25 @@ PEOPLE = [
          degrees='PhD, MA, BA', field='Political Philosophy', source='Dean Dettloff'),
 
     dict(slug='andrew-tebbutt', name='Andrew Tebbutt', standing='sessionals',
-         degrees='PhD, MA, MA, BA', field='Social and Political Philosophy',
+         degrees='PhD, MA, MA, BA',
+         field='Phenomenology, Social and Political Philosophy',
          titles=['SSHRC Postdoctoral Research Fellow'],
-         precis='Asks how ethical and religious community forms personal identity, and how '
-                'that formation carries into public dialogue, reading German idealism, '
-                'phenomenology, and contemporary social and political philosophy together.',
-         bio='Andrew Tebbutt holds a PhD from the University of Toronto (2020), an MA from '
-             'the Institute for Christian Studies, and an MA and BA from Brock University. '
-             'He has taught at ICS as a sessional lecturer and served as Postdoctoral '
-             'Research Associate in the Centre for Philosophy, Religion and Social Ethics, '
-             'where he hosted the <em>Critical Faith</em> podcast. He is a SSHRC '
-             'Postdoctoral Research Fellow at the Institute for Christian Studies.',
-         foci=['Ethical and religious community as a formative context',
-               'German idealist philosophy',
-               'Phenomenology',
+         precis='Draws on the traditions of phenomenology and German idealism in exploring '
+                'how our ethical and religious formation shapes our attitudes towards and '
+                'engagement in public dialogue and domains of pluralism.',
+         bio='Andrew Tebbutt is a SSHRC Postdoctoral Research Fellow at the Institute for '
+             'Christian Studies. He completed a PhD in Religion at the University of '
+             'Toronto and holds MAs in Philosophy from the Institute for Christian Studies '
+             'and Brock University, as well as a BA in English and Philosophy from Brock '
+             'University. Prior to the college\u2019s closure, Andrew was Assistant Professor '
+             'of Philosophy at Trinity Christian College in Palo Heights, IL. He has also '
+             'taught at ICS as a sessional lecturer in the MA/PhD program and served as '
+             'Postdoctoral Research Associate in the Centre for Philosophy, Religion and '
+             'Social Ethics, where he hosted the <em>Critical Faith</em> podcast.',
+         foci=['Hegel and German idealism',
+               'Phenomenology and existentialism',
                'Contemporary social and political philosophy',
-               'Public dialogue and public space']),
+               'Religious language, public dialogue, and pluralism']),
 
     dict(slug='jacob-benjamins', name='Jacob Benjamins', standing='sessionals',
          degrees='PhD, MAS, MA, MA', field='Phenomenology and Political Theology',
@@ -196,7 +199,7 @@ PEOPLE = [
 ]
 
 CENSUS = {
-    'faculty':    ('Five senior members', 'Two cross-appointed'),
+    'faculty':    ('Five senior members', 'Two cross-appointed faculty'),
     'emeriti':    ('Seven members', '1967 &ndash; 2025'),
     'adjuncts':   ('Three adjunct scholars', None),
     'sessionals': ('Three sessional scholars', None),

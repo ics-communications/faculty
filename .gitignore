@@ -8,3 +8,8 @@ package-lock.json
 # Working material: source captures of the old site, design references, headshot
 # originals. Input to the build, never published, and not ours to redistribute.
 info/
+
+# Copy-review round trip (see copy-review/manifest.json for how pages are sliced).
+# The manifest is cheap to keep; the generated doc and its JSON snapshot aren't.
+copy-review/*.docx
+copy-review/extracted.json

@@ -1,0 +1,567 @@
+{
+  "changes": [
+    {
+      "page": "index.html",
+      "op": "delete",
+      "old": [
+        "Institute for Christian Studies"
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "index.html",
+      "op": "replace",
+      "old": [
+        "The scholars who teach, supervise and hold appointments at ICS.",
+        "Five senior members Two cross-appointed"
+      ],
+      "new": [
+        "Browser tab title: “Our Faculty — Institute for Christian Studies” · Meta description: “The scholars who teach, supervise and hold appointments at ICS.”",
+        "Five senior members Two cross-appointed faculty"
+      ],
+      "old_kinds": [
+        "paragraph",
+        "paragraph"
+      ]
+    },
+    {
+      "page": "index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "nansell/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Nik Ansell — ICS Faculty” · Meta description: “Nik Ansell, Associate Professor of Theology at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "nansell/index.html",
+      "op": "replace",
+      "old": [
+        "My own way of attending to our web of beliefs as we negotiate the interplay between our ultimate convinctions, the contours of our world, and the changing needs of our time, may be best conveyed in the course descriptions below. I would situate such work of exploration and re-conception 'between' the two quotations above. Talk of \"infinite mystery\" is meaningful, I believe, if we are talking about the mystery of our existence, our world, our experience of God; in brief, the mystery we know, though it (thankfully) exceeds our grasp and keeps our understanding in motion. Mystery is not mystification. Transcendence and immanence both need to be redefined and rediscovered. Because, in God's grace, we do not need to travel beyond \"heavy metal, morality and beauty\" to find the spirituality of existence."
+      ],
+      "new": [
+        "My own way of attending to our web of beliefs as we negotiate the interplay between our ultimate convictions, the contours of our world, and the changing needs of our time, may be best conveyed in the course descriptions below. I would situate such work of exploration and re-conception 'between' the two quotations above. Talk of \"infinite mystery\" is meaningful, I believe, if we are talking about the mystery of our existence, our world, our experience of God; in brief, the mystery we know, though it (thankfully) exceeds our grasp and keeps our understanding in motion. Mystery is not mystification. Transcendence and immanence both need to be redefined and rediscovered. Because, in God's grace, we do not need to travel beyond \"heavy metal, morality and beauty\" to find the spirituality of existence."
+      ],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "neal-deroo/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Neal DeRoo — ICS Faculty” · Meta description: “Neal DeRoo, Professor of Philosophy at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "neal-deroo/index.html",
+      "op": "replace",
+      "old": [
+        "Phenomenology (Husserl, Merleau-Ponty, Derrida, Levinas, Henry, the “Theological Turn”)",
+        "Contemporary re-imaginings of the Nature of God (Caputo, Kearney, Marion)"
+      ],
+      "new": [
+        "Phenomenology (Husserl, Merleau-Ponty, Derrida))",
+        "The “theological turn” in Phenomenology (Henry, Marion, Levinas)",
+        "Philosophy of Religion d (Caputo, Kearney, Marion)"
+      ],
+      "old_kinds": [
+        "list_item",
+        "list_item"
+      ]
+    },
+    {
+      "page": "neal-deroo/index.html",
+      "op": "delete",
+      "old": [
+        "Philosophies of Oppression (Frye, Butler, Fanon, Anzaldúa)"
+      ],
+      "new": [],
+      "old_kinds": [
+        "list_item"
+      ]
+    },
+    {
+      "page": "rkuipers/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Ronald A. Kuipers — ICS Faculty” · Meta description: “Ronald A. Kuipers, Professor of Philosophy of Religion at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "gstrauss/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Gideon Strauss — ICS Faculty” · Meta description: “Gideon Strauss, Associate Professor of Leadership and Worldview Studies at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "evanderboom/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Edith van der Boom — ICS Faculty” · Meta description: “Edith van der Boom, Associate Professor of Philosophy of Education and Practice of Pedagogy at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "evanderboom/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Institute for Christian Studies"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "emeriti/index.html",
+      "op": "delete",
+      "old": [
+        "Institute for Christian Studies"
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "emeriti/index.html",
+      "op": "replace",
+      "old": [
+        "Those who built the Institute’s scholarship, in the order they joined it, from the founding year to last spring."
+      ],
+      "new": [
+        "Browser tab title: “Emeritus Faculty — Institute for Christian Studies” · Meta description: “Those who built the Institute’s scholarship, in the order they joined it, from the founding year to last spring.”"
+      ],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "hhart/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Hendrik Hart — ICS Faculty” · Meta description: “Hendrik Hart, Emeritus Professor of Systematic Philosophy at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "jolthuis/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “James Olthuis — ICS Faculty” · Meta description: “James Olthuis, Emeritus Professor of Philosophical Theology at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "cseerveld/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Calvin Seerveld — ICS Faculty” · Meta description: “Calvin Seerveld, Emeritus Professor of Aesthetics at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "bsweetman/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Robert Sweetman — ICS Faculty” · Meta description: “Robert Sweetman, Emeritus H. Evan Runner Chair in the History of Philosophy at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "lzuidervaart/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Lambert Zuidervaart — ICS Faculty” · Meta description: “Lambert Zuidervaart, Emeritus Professor of Philosophy at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "dblomberg/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Doug Blomberg — ICS Faculty” · Meta description: “Doug Blomberg, Emeritus Professor of Philosophy of Education at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "rsmick/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Rebekah Smick — ICS Faculty” · Meta description: “Rebekah Smick, Professor Emerita of Philosophy of Arts and Culture at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "rsmick/index.html",
+      "op": "delete",
+      "old": [
+        "PhD",
+        "More info coming soon."
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph",
+        "list_item"
+      ]
+    },
+    {
+      "page": "rsmick/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Institute for Christian Studies"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "adjunct/index.html",
+      "op": "delete",
+      "old": [
+        "Institute for Christian Studies"
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "adjunct/index.html",
+      "op": "replace",
+      "old": [
+        "Scholars who supervise ICS students and teach alongside their own posts."
+      ],
+      "new": [
+        "Browser tab title: “Adjunct Faculty — Institute for Christian Studies” · Meta description: “Scholars who supervise ICS students and teach alongside their own posts.”"
+      ],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "adjunct/index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "adjunct/index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "adjunct/index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "jchaplin/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Jonathan Chaplin — ICS Faculty” · Meta description: “Jonathan Chaplin, Political Philosophy and Theology at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "adengerinkchaplin/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Adrienne Dengerink Chaplin — ICS Faculty” · Meta description: “Adrienne Dengerink Chaplin, Aesthetics at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "skeesmaat/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Sylvia Keesmaat — ICS Faculty” · Meta description: “Sylvia Keesmaat, Biblical Studies and Hermeneutics at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "skeesmaat/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Institute for Christian Studies"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "delete",
+      "old": [
+        "Institute for Christian Studies"
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "replace",
+      "old": [
+        "Scholars teaching individual courses in the current cycle."
+      ],
+      "new": [
+        "Browser tab title: “Sessional Faculty — Institute for Christian Studies” · Meta description: “Scholars teaching individual courses in the current cycle.”"
+      ],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "replace",
+      "old": [
+        "Social and Political Philosophy"
+      ],
+      "new": [
+        "Phenomenology, Social and Political Philosophy"
+      ],
+      "old_kinds": [
+        "list_item"
+      ]
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "replace",
+      "old": [
+        "Asks how ethical and religious community forms personal identity, and how that formation carries into public dialogue, reading German idealism, phenomenology, and contemporary social and political philosophy together."
+      ],
+      "new": [
+        "Draws on the traditions of phenomenology and German idealism in exploring how our ethical and religious formation shapes our attitudes towards and engagement in public dialogue and domains of pluralism."
+      ],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "sessional-faculty/index.html",
+      "op": "delete",
+      "old": [
+        ""
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "dean-dettloff/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Dean Dettloff — ICS Faculty” · Meta description: “Dean Dettloff, Political Philosophy at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "andrew-tebbutt/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Andrew Tebbutt — ICS Faculty” · Meta description: “Andrew Tebbutt, SSHRC Postdoctoral Research Fellow at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "andrew-tebbutt/index.html",
+      "op": "replace",
+      "old": [
+        "Andrew Tebbutt holds a PhD from the University of Toronto (2020), an MA from the Institute for Christian Studies, and an MA and BA from Brock University. He has taught at ICS as a sessional lecturer and served as Postdoctoral Research Associate in the Centre for Philosophy, Religion and Social Ethics, where he hosted the Critical Faith podcast. He is a SSHRC Postdoctoral Research Fellow at the Institute for Christian Studies."
+      ],
+      "new": [
+        "Andrew Tebbutt is a SSHRC Postdoctoral Research Fellow at the Institute for Christian Studies. He completed a PhD in Religion at the University of Toronto and holds MAs in Philosophy from the Institute for Christian Studies and Brock University, as well as a BA in English and Philosophy from Brock University. Prior to the college’s closure, Andrew was Assistant Professor of Philosophy at Trinity Christian College in Palo Heights, IL. He has also taught at ICS as a sessional lecturer in the MA/PhD program and served as Postdoctoral Research Associate in the Centre for Philosophy, Religion and Social Ethics, where he hosted the Critical Faith podcast."
+      ],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "andrew-tebbutt/index.html",
+      "op": "replace",
+      "old": [
+        "Ethical and religious community as a formative context",
+        "German idealist philosophy",
+        "Phenomenology"
+      ],
+      "new": [
+        "Hegel and German idealism",
+        "Phenomenology and existentialism"
+      ],
+      "old_kinds": [
+        "list_item",
+        "list_item",
+        "list_item"
+      ]
+    },
+    {
+      "page": "andrew-tebbutt/index.html",
+      "op": "replace",
+      "old": [
+        "Public dialogue and public space"
+      ],
+      "new": [
+        "Religious language, public dialogue, and pluralism"
+      ],
+      "old_kinds": [
+        "list_item"
+      ]
+    },
+    {
+      "page": "jacob-benjamins/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Jacob Benjamins — ICS Faculty” · Meta description: “Jacob Benjamins, SSHRC Postdoctoral Research Fellow at the Institute for Christian Studies.”"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "jacob-benjamins/index.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Institute for Christian Studies"
+      ],
+      "old_kinds": []
+    },
+    {
+      "page": "404.html",
+      "op": "delete",
+      "old": [
+        "Institute for Christian Studies"
+      ],
+      "new": [],
+      "old_kinds": [
+        "paragraph"
+      ]
+    },
+    {
+      "page": "404.html",
+      "op": "insert",
+      "old": [],
+      "new": [
+        "Browser tab title: “Page not found — ICS Faculty” · Meta description: “The page you asked for is not here. Browse the ICS faculty listings instead.”"
+      ],
+      "old_kinds": []
+    }
+  ],
+  "unlocated_pages": []
+}

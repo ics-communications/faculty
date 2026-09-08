@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {"id": "index.html", "path": "index.html", "heading_offset": 0},
+    {"id": "nansell/index.html", "path": "nansell/index.html", "heading_offset": 1},
+    {"id": "neal-deroo/index.html", "path": "neal-deroo/index.html", "heading_offset": 1},
+    {"id": "rkuipers/index.html", "path": "rkuipers/index.html", "heading_offset": 1},
+    {"id": "gstrauss/index.html", "path": "gstrauss/index.html", "heading_offset": 1},
+    {"id": "evanderboom/index.html", "path": "evanderboom/index.html", "heading_offset": 1},
+
+    {"id": "emeriti/index.html", "path": "emeriti/index.html", "heading_offset": 0},
+    {"id": "hhart/index.html", "path": "hhart/index.html", "heading_offset": 1},
+    {"id": "jolthuis/index.html", "path": "jolthuis/index.html", "heading_offset": 1},
+    {"id": "cseerveld/index.html", "path": "cseerveld/index.html", "heading_offset": 1},
+    {"id": "bsweetman/index.html", "path": "bsweetman/index.html", "heading_offset": 1},
+    {"id": "lzuidervaart/index.html", "path": "lzuidervaart/index.html", "heading_offset": 1},
+    {"id": "dblomberg/index.html", "path": "dblomberg/index.html", "heading_offset": 1},
+    {"id": "rsmick/index.html", "path": "rsmick/index.html", "heading_offset": 1},
+
+    {"id": "adjunct/index.html", "path": "adjunct/index.html", "heading_offset": 0},
+    {"id": "jchaplin/index.html", "path": "jchaplin/index.html", "heading_offset": 1},
+    {"id": "adengerinkchaplin/index.html", "path": "adengerinkchaplin/index.html", "heading_offset": 1},
+    {"id": "skeesmaat/index.html", "path": "skeesmaat/index.html", "heading_offset": 1},
+
+    {"id": "sessional-faculty/index.html", "path": "sessional-faculty/index.html", "heading_offset": 0},
+    {"id": "dean-dettloff/index.html", "path": "dean-dettloff/index.html", "heading_offset": 1},
+    {"id": "andrew-tebbutt/index.html", "path": "andrew-tebbutt/index.html", "heading_offset": 1},
+    {"id": "jacob-benjamins/index.html", "path": "jacob-benjamins/index.html", "heading_offset": 1},
+
+    {"id": "404.html", "path": "404.html", "heading_offset": 0}
+  ],
+  "skip_selectors": [
+    ["nav", "bio__index"],
+    ["p", "bio__crumb"],
+    ["ul", "standings"],
+    ["section", "elsewhere"]
+  ],
+  "heading_bump_selectors": [
+    ["h2", "entry__name"]
+  ],
+  "chrome_threshold": 0.9
+}
