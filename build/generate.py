@@ -564,8 +564,7 @@ def index_page(key, label, title, lede, depth):
   <div class="opening">
     <div class="opening__head">
       <p class="opening__kicker">Institute for Christian Studies</p>
-      <h1 class="opening__title">%s</h1>
-      <p class="opening__lede">%s</p>%s
+      <h1 class="opening__title">%s</h1>%s
     </div>
 %s%s
   </div>
@@ -575,7 +574,7 @@ def index_page(key, label, title, lede, depth):
   </div>
 </div>
 
-%s''' % (title, lede, census, standings_nav(key, depth), note,
+%s''' % (title, census, standings_nav(key, depth), note,
          ' register--sparse' if len(people) <= 3 else '', '\n'.join(body),
          elsewhere(key, depth))
 
