@@ -196,32 +196,37 @@ PEOPLE = [
                'Philosophy of Attention',
                'Philosophy of Technology'],
          pubs_title='Selected Publications',
-         pubs=['<em>The Play of Goodness: Creation, Phenomenology, and Culture</em> '
-               '(New York: Fordham University Press, 2025).',
-               'Co-editor, <em>The Act of Contemplation: Metaphysics, Phenomenology and the '
-               'Religious Life</em> (University of Toronto Press, forthcoming).',
-               'Co-editor, <em>From Contemplation to Critique: Key Figures of Social '
-               'Spirituality in the Twentieth Century</em> in <em>Studies in '
-               'Spirituality</em> (forthcoming).',
-               '\u201cContemplating the Whole: Enrique Dussel\u2019s Metaphysics of '
-               'Exteriority\u201d in <em>Studies in Spirituality</em> (forthcoming).',
-               '\u201cReenchanting Parenthood: Contemplative Life in the Achievement '
-               'Society\u201d in <em>Toronto Journal of Theology</em> (forthcoming).',
-               '\u201cContemplation and Creation\u2019s Goodness: Metaphysics as '
-               'Preparatory Practice,\u201d in <em>The Act of Contemplation</em> '
-               '(University of Toronto Press, forthcoming).',
-               '\u201cAwakening the Real Within the Love of God\u201d in <em>Hoge minne es '
-               'deen vor dander: Essays on Christian Mystical Tradition in Honour of Rob '
-               'Faesen SJ</em>, eds, John Arblaster and Michiel Vandenbroucke '
-               '(Brepols 2026).',
-               '\u201cMetaphorical Bridges: Paul Ricoeur\u2019s Theory of the '
-               'Interanimation of Discourses for Phenomenology of Religion,\u201d '
-               '<em>Research in Phenomenology</em> 49 (2019): 403-424.',
-               '\u201cAre We Living in an Era of Nihilism? Jean-Luc Marion and Reading the '
-               'Signs of the Times,\u201d <em>Literature and Theology</em> 33, no. 4 '
-               '(2019): 476-491.',
-               '\u201cThe Politics of Wandering in Michel de Certeau,\u201d <em>Political '
-               'Theology</em> 19, no. 1 (2018): 50-60.']),
+         pubs=['<strong><em>The Play of Goodness: Creation, Phenomenology, and '
+               'Culture</em></strong> (New York: Fordham University Press, 2025).',
+               '<strong><em>The Act of Contemplation: Metaphysics, Phenomenology and '
+               'the Religious Life</em></strong>, co-editor Jacob Benjamins (Toronto: '
+               'University of Toronto Press, forthcoming).',
+               '<strong><em>From Contemplation to Critique: Key Figures of Social '
+               'Spirituality in the Twentieth Century</em></strong>, co-editor Jacob '
+               'Benjamins, in <em>Studies in Spirituality</em> (forthcoming).',
+               '<strong>\u201cContemplating the Whole: Enrique Dussel\u2019s Metaphysics '
+               'of Exteriority\u201d</strong> in <em>Studies in Spirituality</em> '
+               '(forthcoming).',
+               '<strong>\u201cReenchanting Parenthood: Contemplative Life in the '
+               'Achievement Society\u201d</strong> in <em>Toronto Journal of Theology</em> '
+               '(forthcoming).',
+               '<strong>\u201cContemplation and Creation\u2019s Goodness: Metaphysics as '
+               'Preparatory Practice\u201d</strong> in <em>The Act of Contemplation</em> '
+               '(Toronto: University of Toronto Press, forthcoming).',
+               '<strong>\u201cAwakening the Real Within the Love of God\u201d</strong> in '
+               '<em>Hoge minne es deen vor dander: Essays on Christian Mystical Tradition '
+               'in Honour of Rob Faesen SJ</em>, eds. John Arblaster and Michiel '
+               'Vandenbroucke (Turnhout: Brepols, 2026).',
+               '<strong>\u201cMetaphorical Bridges: Paul Ricoeur\u2019s Theory of the '
+               'Interanimation of Discourses for Phenomenology of '
+               'Religion\u201d</strong> in <em>Research in Phenomenology</em> '
+               '(volume 49, 2019), 403\u2013424.',
+               '<strong>\u201cAre We Living in an Era of Nihilism? Jean-Luc Marion and '
+               'Reading the Signs of the Times\u201d</strong> in <em>Literature and '
+               'Theology</em> (volume 33:4, 2019), 476\u2013491.',
+               '<strong>\u201cThe Politics of Wandering in Michel de '
+               'Certeau\u201d</strong> in <em>Political Theology</em> '
+               '(volume 19:1, 2018), 50\u201360.']),
 ]
 
 CENSUS = {

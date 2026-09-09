@@ -202,7 +202,8 @@ def page(title, description, body, active, depth, canonical, image=None):
 <meta property="og:image:height" content="800">
 <meta property="og:image:alt" content="Institute for Christian Studies faculty">
 <meta name="twitter:card" content="summary">
-<link rel="icon" href="%sassets/logos/ics-logo-red.svg" type="image/svg+xml">
+<link rel="icon" href="%sassets/logos/ics-favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="%sassets/logos/ics-favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="%s">
@@ -220,7 +221,7 @@ def page(title, description, body, active, depth, canonical, image=None):
 <script src="%sjs/site.js"></script>
 </body>
 </html>
-''' % (title, description, canonical, title, description, canonical, image or OG_IMAGE, r, FONTS, r,
+''' % (title, description, canonical, title, description, canonical, image or OG_IMAGE, r, r, FONTS, r,
        header(active, depth), body, FOOTER, r)
 
 
