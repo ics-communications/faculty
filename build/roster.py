@@ -168,34 +168,60 @@ PEOPLE = [
                'Religious language, public dialogue, and pluralism']),
 
     dict(slug='jacob-benjamins', name='Jacob Benjamins', standing='sessionals',
-         degrees='PhD, MAS, MA, MA', field='Phenomenology and Political Theology',
+         degrees='PhD, MAS, MA, MA',
+         field='Phenomenology of Religion and Contemplative Traditions',
          titles=['SSHRC Postdoctoral Research Fellow'],
-         precis='Works on the theological, existential and socio-political dynamics of '
-                'experiencing God’s absence or presence, and on what metaphor is doing '
-                'when philosophy and theology reach for it.',
+         precis='Works at the intersection of the philosophy of attention, contemplative '
+                'traditions and the philosophy of technology, approaching them through the '
+                'phenomenology of religion and a theology of creation’s goodness.',
          bio='Jacob Benjamins is a SSHRC Postdoctoral Research Fellow at the Institute for '
-             'Christian Studies. He completed a double doctorate with KU Leuven and '
-             'Australian Catholic University, and holds a Master of Advanced Studies in '
-             'Theology and Religion (KU Leuven), an MA in Philosophy of Religion (McGill '
-             'University), and an MA in Theology (Regent College). At KU Leuven he '
-             'coordinates the Interfaculty Centre for Catholic Thought and takes part in '
-             '<em>Atheism and Christianity: Moving Past Polemic</em>, a research '
-             'collaboration with Australian Catholic University. His recent work follows the '
-             'Christian contemplative traditions — monastic and religious lives shaped '
-             'by silence, solitude, asceticism and stillness.',
-         foci=['Phenomenology', 'Political theology',
-               'Metaphor in philosophy and theology',
-               'The experience of divine absence and presence',
-               'Christian contemplative traditions'],
+             'Christian Studies. Previously, he was a Postdoctoral Research Fellow at St. '
+             'Michael\u2019s College at the University of Toronto working on a Templeton '
+             'Foundation project: <em>The Metaphysics of Contemplation: Religious Life as '
+             'Form of Thought</em>. He is the author of <em>The Play of Goodness: Creation, '
+             'Phenomenology, and Culture</em> (Fordham, 2025) and the co-editor of two '
+             'forthcoming volumes on the philosophical significance of contemplative '
+             'traditions in religious orders. He completed a co-doctorate with KU Leuven '
+             'and Australian Catholic University with support from the international '
+             'research project: <em>Atheism and Christianity: Moving Past Polemic</em>. He '
+             'was the coordinator for the Interfaculty Centre for Catholic Thought at KU '
+             'Leuven and presently serves as an adjunct instructor for Martin Luther '
+             'University\u2019s Christianity, Interfaith Dialogue and Community Engagement '
+             'program. His current research is at the intersection of the philosophy of '
+             'attention, contemplative traditions, and the philosophy of technology.',
+         foci=['Phenomenology of Religion',
+               'Theology of Creation\u2019s Goodness',
+               'Contemplative Traditions and Philosophy',
+               'Constructive Theology',
+               'Philosophy of Attention',
+               'Philosophy of Technology'],
+         pubs_title='Selected Publications',
          pubs=['<em>The Play of Goodness: Creation, Phenomenology, and Culture</em> '
                '(New York: Fordham University Press, 2025).',
                'Co-editor, <em>The Act of Contemplation: Metaphysics, Phenomenology and the '
                'Religious Life</em> (University of Toronto Press, forthcoming).',
                'Co-editor, <em>From Contemplation to Critique: Key Figures of Social '
-               'Spirituality in the Twentieth Century</em> (Studies in Spirituality, '
-               'forthcoming).'],
-         external='https://theo.kuleuven.be/en/research/researchers/00111799',
-         external_label='Profile at KU Leuven'),
+               'Spirituality in the Twentieth Century</em> in <em>Studies in '
+               'Spirituality</em> (forthcoming).',
+               '\u201cContemplating the Whole: Enrique Dussel\u2019s Metaphysics of '
+               'Exteriority\u201d in <em>Studies in Spirituality</em> (forthcoming).',
+               '\u201cReenchanting Parenthood: Contemplative Life in the Achievement '
+               'Society\u201d in <em>Toronto Journal of Theology</em> (forthcoming).',
+               '\u201cContemplation and Creation\u2019s Goodness: Metaphysics as '
+               'Preparatory Practice,\u201d in <em>The Act of Contemplation</em> '
+               '(University of Toronto Press, forthcoming).',
+               '\u201cAwakening the Real Within the Love of God\u201d in <em>Hoge minne es '
+               'deen vor dander: Essays on Christian Mystical Tradition in Honour of Rob '
+               'Faesen SJ</em>, eds, John Arblaster and Michiel Vandenbroucke '
+               '(Brepols 2026).',
+               '\u201cMetaphorical Bridges: Paul Ricoeur\u2019s Theory of the '
+               'Interanimation of Discourses for Phenomenology of Religion,\u201d '
+               '<em>Research in Phenomenology</em> 49 (2019): 403-424.',
+               '\u201cAre We Living in an Era of Nihilism? Jean-Luc Marion and Reading the '
+               'Signs of the Times,\u201d <em>Literature and Theology</em> 33, no. 4 '
+               '(2019): 476-491.',
+               '\u201cThe Politics of Wandering in Michel de Certeau,\u201d <em>Political '
+               'Theology</em> 19, no. 1 (2018): 50-60.']),
 ]
 
 CENSUS = {

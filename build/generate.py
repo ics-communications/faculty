@@ -704,11 +704,12 @@ def bio_page(p):
       <div class="prose"><ul>%s</ul></div>
     </section>''' % ''.join('<li>%s</li>' % f for f in p['foci']))
         if p.get('pubs'):
-            index.append(('Publications', 'publications'))
+            pubs_title = p.get('pubs_title', 'Publications')
+            index.append((pubs_title, 'publications'))
             sections.append('''    <section class="bio__section" id="publications">
-      <h2 class="bio__section-title">Publications</h2>
+      <h2 class="bio__section-title">%s</h2>
       <div class="prose prose--list"><ul>%s</ul></div>
-    </section>''' % ''.join('<li>%s</li>' % x for x in p['pubs']))
+    </section>''' % (pubs_title, ''.join('<li>%s</li>' % x for x in p['pubs'])))
     else:
         for s in rec['sections']:
             a = anchor_for(s['heading'])
