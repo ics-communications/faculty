@@ -79,6 +79,7 @@ if __name__ == '__main__':
         (os.path.join(SP, 'dudiak.jpg'), 'jeffrey-dudiak', 0.30),
         (os.path.join(ROOT, 'info/NewerHeadshots/AndrewTebbut.jpg'), 'andrew-tebbutt', 0.25),
         (os.path.join(ROOT, 'info/NewerHeadshots/JacobBenjamins.jpg'), 'jacob-benjamins', 0.25),
+        (os.path.join(ROOT, 'info/NewerHeadshots/BobSweetman.jpg'), 'robert-sweetman', 0.30),
     ]
     for src, slug, bias in jobs:
         native = Image.open(src).size
